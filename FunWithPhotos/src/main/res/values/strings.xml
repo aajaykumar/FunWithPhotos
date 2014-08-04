@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FunWithPhotos - tringapps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cd_img_frm_inst">Image from Instagram</string>
+    <string name="loading_more_images">Loading more images…</string>
+
+</resources>
